@@ -1,8 +1,8 @@
-package surveillancemod.surveilancemod;
+package surveillancemod.surveillancemod;
 
 import net.fabricmc.api.ModInitializer;
 
-public class SurveilanceMod implements ModInitializer {
+public class SurveillanceMod implements ModInitializer {
     @Override
     public void onInitialize() {
 
