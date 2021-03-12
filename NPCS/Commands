@@ -1,0 +1,6 @@
+Public class Commands {
+Public static void main(String[] args) {
+ if (/npcs) {
+ System.out.println("eeeeeee");
+  }
+}
